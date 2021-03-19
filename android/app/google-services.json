@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626267526796",
+    "project_id": "beritahoop",
+    "storage_bucket": "beritahoop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626267526796:android:666d94f587d1b4eae70da9",
+        "android_client_info": {
+          "package_name": "com.example.berita_hoop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626267526796-fadaol2988bq7r1pam87a2p1sbc6nr12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9rx6KJ9vHVOSdod17H7UJC8SLVUu4BrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626267526796-fadaol2988bq7r1pam87a2p1sbc6nr12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
